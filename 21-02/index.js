@@ -22,3 +22,15 @@ console.log(surname);
 // V8 -> JS engine browserda ishlatish
 // Ulash -> <script src="file nomi"></script>
 // var, let const
+
+// --------------------------------------------------------------------------------------Vazifalar--------------------------------------------------------------------------------------
+
+//  1.  hmtl css js filellar ochib uni ulaymiz.
+
+// 2. js fileda console ga "Hello world" degan text chiqsin.
+
+// 3 bitta o'zgaruvchi ya'ni xotira yarating va qiymatiga ismingizni bering. Va uni ham consoleda ko'rsating.
+
+// 4. ikkita o'zgaruvchi yasang va bir birini qo'shib consolega oling.
+
+// 5. Bitta o'zgaruvchi kk va unga qiyamt "olma" berilishligi kk va yangi qatordan uni qiymatini "banan" qilib o'zgartirishimiz kk
