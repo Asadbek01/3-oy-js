@@ -1,6 +1,10 @@
 // O'zgaruvchi turlar
 //  var //es5  ----------------------   let va const // es6
+console.log(c);
 var c = 'Abdulloh';
+
+
+
 let surname = 'Odilov';
 // console.log(surname);
 const lorem = 'lorem';
