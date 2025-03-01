@@ -44,3 +44,20 @@ if (obj.isMarried) {
 } else {
 	console.log('Uylanmagan');
 }
+
+//  1) Vazifa personni birinchi hobbisini cosolega chiqaring.
+// const person = {
+// 	name: 'Alex',
+// 	age: 25,
+// 	address: {
+// 		city: 'New York',
+// 		zip: 10001,
+// 	},
+// 	hobbies: ['reading', 'cycling', 'hiking'],
+// };
+
+//  2) Vazifa Log the third fruit.
+// const fruits = ['apple', 'banana', 'mango', 'strawberry', 'grape'];
+// oxirgi elementni consolega oling .length dan foydalanib.
+
+// 3) Tepadagi fruits ni ichidagi banan elementni uzumga yangilang.
