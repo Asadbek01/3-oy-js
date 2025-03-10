@@ -76,3 +76,6 @@ function checkAge() {
 // 7) 5 savolda yaratilgan objectdan addressni consolega oling.
 // 8) 6 savoldagi yaratilgan arraydan oxirgi elemntni .lenghth bilan oling.
 // 9) checkMeva nomli funksiya yarating va uni ichida 6 savoldagi yaratilgan mevalarnini 3-indexini tekshiring. If elsedan foydalaning.
+
+// Abdulloh -> 97 992 2707
+// MuhammadAziz ->  99 4771808
