@@ -86,3 +86,11 @@ funkisya_nomi(100, 2);
 // funksiya
 // concatination
 // funksiyalarga param junatdik
+// o'zgaruvchilar -> var, let const.
+// data types -> string, number, boolean, object, array, null, undefined
+
+let result = ['olma', 'nok', 'kiwi', 'banan', 'cacos', 'ananas'];
+function sum(param) {
+	console.log(param);
+}
+sum(result);
